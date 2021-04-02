@@ -1,4 +1,4 @@
-from hikStruct import *
+from struct import *
 from excepetion import HiKException
 
 
